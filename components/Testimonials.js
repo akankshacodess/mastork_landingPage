@@ -6,17 +6,17 @@ export default function Testimonials() {
           <div className="min-w-[300px] bg-gray-100 p-6 shadow-md">
             <h3 className="text-xl font-semibold">Company A</h3>
             <p className="text-sm">CEO</p>
-            <p className="mt-4">"Great service! Helped us streamline our processes."</p>
+            <p className="mt-4">&quot;Great service! Helped us streamline our processes.&quot;</p>
           </div>
           <div className="min-w-[300px] bg-gray-100 p-6 shadow-md">
             <h3 className="text-xl font-semibold">Company B</h3>
             <p className="text-sm">CEO</p>
-            <p className="mt-4">"Great service! Helped us streamline our processes."</p>
+            <p className="mt-4">&quot;Great service! Helped us streamline our processes.&quot;</p>
           </div>
           <div className="min-w-[300px] bg-gray-100 p-6 shadow-md">
             <h3 className="text-xl font-semibold">Company C</h3>
             <p className="text-sm">CEO</p>
-            <p className="mt-4">"Great service! Helped us streamline our processes."</p>
+            <p className="mt-4">&quot;Great service! Helped us streamline our processes.&quot;</p>
           </div>
           <div className="min-w-[300px] bg-gray-100 p-6 shadow-md">
             <h3 className="text-xl font-semibold">Company D</h3>

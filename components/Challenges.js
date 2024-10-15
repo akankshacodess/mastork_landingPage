@@ -1,7 +1,7 @@
 export default function Challenges() {
   return (
     <section id="problems" className="py-16 bg-gray-100 text-center" data-aos="fade-right">
-      <h2 className="text-3xl font-semibold">Are you facing these challenges?</h2>
+      <h2 className="text-3xl font-semibold">Are you facing these challenges&</h2>
       <div className="mt-8 grid grid-cols-1 md:grid-cols-3 gap-4">
         <div className="bg-white p-6 shadow-md">
           <img src="/challenge-icon1.png" alt="dummy" className="h-8 w-8 mb-4" />
